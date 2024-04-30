@@ -14,3 +14,4 @@ gdf.plot(ax=ax, marker='o', color='blue', markersize=5, label='Airport Locations
 ax.set_title('Airport Locations Worldwide')
 plt.legend()
 plt.show()
+fdd
